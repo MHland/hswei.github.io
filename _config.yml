@@ -23,13 +23,13 @@ repository               : # "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "魏豪杉 Haoshan Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Phd student"
+  location         : "Beijing, China"
+  employer         : "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "weihs.20b@igsnrr.ac.cn" 
 
   # Academic websites
   academia         : # URL
