@@ -13,7 +13,7 @@ title                    : "Haoshan's homepage"
 title_separator          : "-"
 name                     : &name "Haoshan Wei"
 description              : &description "Phd student"
-url                      : https://MHland.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://mhland.github.io/hswei.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 
