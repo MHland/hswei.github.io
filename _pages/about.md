@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "魏豪杉的个人主页 Haoshan's personal homepage website"
+title: "魏豪杉的个人主页 Haoshan's personal homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,10 +8,35 @@ redirect_from:
 ---
 
 
-欢迎来此，我的研究兴趣是水文模型构建和生态水文相关研究。近期的主要研究是全球水文模型构建、CO₂-植被-径流过程及其不确定性分析。开发了SRS模型率定算法。目前在做全球AWRA模型的相关开发工作。
+欢迎来到我的个人主页。My research interests lie in the construction of hydrological models and ecohydrology-related studies.
 
-Welcome to my personal homepage. My research interests lie in the construction of hydrological models and ecohydrology-related studies. Recently, I have been focusing on the development of global hydrological models, the CO₂-vegetation-runoff processes, and the uncertainty analysis of these processes. I have also developed the SRS model calibration algorithm. Currently, I am working on the development of the global AWRA model.
+## 研究领域 Research Interests
 
-目前使用的编程语言为 The programming languages currently in use are：
+- 全球水文模型构建 Global Hydrological Model Development
+- CO₂-植被-径流过程及其不确定性分析 CO₂-Vegetation-Streamflow Processes and Uncertainty Analysis
+- SRS模型率定算法 SRS Algorithm
+- 全球AWRA模型开发 Global-Snow-AWRA Model Development
+
+## 编程语言 Programming Languages
+
 - Julia
 - Python
+
+## 联系方式 Contact Information
+
+- **邮箱 Email**: [weihs.20b@igsnrr.ac.cn]
+- **GitHub**: [https://github.com/MHland]
+
+## 关于我 About Me
+
+I am a researcher focused on hydrological models and ecohydrology. I am passionate about constructing global hydrological models and simulating ecohydrological processes. My goal is to provide a scientific basis for water resource management and ecological protection through my research.
+
+## 最新动态 Latest Updates
+
+- [高关注研究论文 Hot Research Paper](https://github.com/yourusername/yourproject)
+- [最新研究论文 My Latest Research Paper](https://doi.org/10.xxxx/xxxxxx)
+
+## 感谢访问 Thank You for Visiting
+
+感谢你访问我的个人主页。If you are interested in my research or have any collaboration opportunities, feel free to contact me via the contact information above.
+
