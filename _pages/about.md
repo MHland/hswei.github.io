@@ -14,8 +14,8 @@ redirect_from:
 
 - 全球水文模型构建 Global Hydrological Model Development
 - CO₂-植被-径流过程及其不确定性分析 CO₂-Vegetation-Streamflow Processes and Uncertainty Analysis
-- SRS模型率定算法 SRS Algorithm
-- 全球AWRA模型开发 Global-Snow-AWRA Model Development
+- 开发了SRS模型率定算法 SRS Algorithm
+- 目前在开发全球AWRA模型 Global-Snow-AWRA Model Development
 
 ## 编程语言 Programming Languages
 
@@ -33,8 +33,8 @@ I am a researcher focused on hydrological models and ecohydrology. I am passiona
 
 ## 最新动态 Latest Updates
 
-- [高关注研究论文 Hot Research Paper](https://github.com/yourusername/yourproject)
-- [最新研究论文 My Latest Research Paper](https://doi.org/10.xxxx/xxxxxx)
+- [高关注研究论文 Hot Research Paper --- *Nature Communications*](https://doi.org/10.1038/s41467-024-53879-x)
+- [最新研究论文 My Latest Research Paper --- *GRL*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL113685)
 
 ## 感谢访问 Thank You for Visiting
 
